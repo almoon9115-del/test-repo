@@ -1,2 +1,2 @@
 # test-repo
-My first web development
+My first web development project
